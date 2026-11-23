@@ -17,8 +17,8 @@ Recently I ported complete ADAS ASIL-D project from NXP's S32G3 (Arm-M) to S32N5
 
 ### Currently Exploring
 
-- Zephyr RTOS for automotive projects according to ISO26262
-- Targeting to contribute to Zephyr Project in my spare time for ISO26262 certification.
+- **Zephyr RTOS for Automotive:** Exploring the application of Zephyr RTOS in automotive embedded systems, with a focus on functional safety and ISO 26262 requirements.
+- **Open-Source Contributions:** Working toward contributing to the Zephyr Project, particularly in areas that could help advance its readiness for safety-critical automotive applications and future ISO 26262 certification efforts.
 
 ### Professional Background
 - Currently working in **Appraid-Tech** for 4+ years in automotive embedded software engineering.
