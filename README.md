@@ -21,8 +21,8 @@ Recently I ported complete ADAS ASIL-D project from NXP's S32G3 (Arm-M) to S32N5
 - Targeting to contribute to Zephyr Project in my spare time for ISO26262 certification.
 
 ### Professional Background
-- Currently working in **Appraid-Tech** for 4+ years Automotive embedded software engineering, 
-- Worked in Valeo, Egypt for 4 years.
+- Currently working in **Appraid-Tech** for 4+ years in automotive embedded software engineering.
+- Worked in Valeo, Egypt for 4 years in automotive embedded software engineering.
 - Bachelor thesis and internship as a research assistant in RWTH Aachen, Germany in Simultaneous Localization and Mapping with GPA: 1.1 **Excellent, GPA German System**
     - [Bachelor thesis evaluation](https://drive.google.com/file/d/1bn-kfTQyTgsHp6nlA1RnXpnXPkhl9Cmx/view?usp=sharing)
     - [RWTH Aachen feedback](https://drive.google.com/file/d/1nHBMTsDKz-wmqmv71oQy5Ps6o45aBeyv/view?usp=sharing)
